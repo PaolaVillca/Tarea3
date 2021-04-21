@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ ecuacionSegundoG(double,\ double,\ double)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=java.lang.String\ ecuacionRecta(double,\ double,\ double,\ double)
+comment3.params=x\ h
+comment3.target=java.lang.String\ catetoFaltante(double,\ double)
+numComments=4
